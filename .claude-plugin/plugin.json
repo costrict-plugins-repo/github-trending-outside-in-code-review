@@ -1,0 +1,21 @@
+{
+  "name": "outside-in-code-review",
+  "version": "2.0.0",
+  "description": "Systematic codebase exploration from surface artifacts to implementation detail, producing an actionable discovery report as a static HTML site and PDF within ~1 hour: dashboard, C4 architecture, one detailed flow, backlog and code quality.",
+  "keywords": [
+    "code-review",
+    "codebase-exploration",
+    "technical-audit",
+    "onboarding",
+    "legacy-code",
+    "architecture",
+    "code-quality",
+    "outside-in"
+  ],
+  "author": {
+    "name": "Yoan Thirion"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ythirion/outside-in-code-review-skill",
+  "repository": "https://github.com/ythirion/outside-in-code-review-skill"
+}
